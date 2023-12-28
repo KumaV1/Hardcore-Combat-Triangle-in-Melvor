@@ -1,0 +1,5 @@
+{
+  "namespace": "hardcoreCombatTriangle",
+  "icon": "assets/hardcoreCombatTriangle/Logo.png",
+  "setup": "setup.mjs"
+}
